@@ -1,35 +1,48 @@
 [
   {
-    "bookSourceComment": "",
+    "bookSourceComment": "要登入才能用",
     "bookSourceGroup": "📖轻文",
     "bookSourceName": "轻小说文库",
     "bookSourceType": 0,
-    "bookSourceUrl": "http://www.wenku8.net/index.php",
+    "bookSourceUrl": "https://www.wenku8.net",
     "bookUrlPattern": "",
-    "customOrder": -88951454,
+    "customOrder": -88951455,
     "enabled": true,
     "enabledCookieJar": false,
     "enabledExplore": true,
     "enabledReview": false,
-    "exploreUrl": "电击文库::https://www.wenku8.net/modules/article/articlelist.php?class=1&page={{page}}\n富士见文库::https://www.wenku8.net/modules/article/articlelist.php?class=2&page={{page}}\n角川文库::https://www.wenku8.net/modules/article/articlelist.php?class=3&page={{page}}\nMF文库J::https://www.wenku8.net/modules/article/articlelist.php?class=4&page={{page}}\nFami通文库::https://www.wenku8.net/modules/article/articlelist.php?class=5&page={{page}}\nGA文库::https://www.wenku8.net/modules/article/articlelist.php?class=6&page={{page}}\nHJ文库::https://www.wenku8.net/modules/article/articlelist.php?class=7&page={{page}}\n一迅社::https://www.wenku8.net/modules/article/articlelist.php?class=8&page={{page}}\n集英社::https://www.wenku8.net/modules/article/articlelist.php?class=9&page={{page}}\n小学馆::https://www.wenku8.net/modules/article/articlelist.php?class=10&page={{page}}\n讲谈社::https://www.wenku8.net/modules/article/articlelist.php?class=11&page={{page}}\n少女文库::https://www.wenku8.net/modules/article/articlelist.php?class=12&page={{page}}\n其他文库::https://www.wenku8.net/modules/article/articlelist.php?class=13&page={{page}}\n游戏剧本::https://www.wenku8.net/modules/article/articlelist.php?class=14&page={{page}}\n动画化作品::https://www.wenku8.net/modules/article/toplist.php?sort=anime&page={{page}}\n完结全本::https://www.wenku8.net/modules/article/articlelist.php?fullflag=1&page={{page}}\n总收藏榜::https://www.wenku8.net/modules/article/toplist.php?sort=goodnum&page={{page}}\n总排行榜::https://www.wenku8.net/modules/article/toplist.php?sort=allvisit&page={{page}}\n月排行榜::https://www.wenku8.net/modules/article/toplist.php?sort=monthvisit&page={{page}}\n周排行榜::https://www.wenku8.net/modules/article/toplist.php?sort=weekvisit&page={{page}}\n日排行榜::https://www.wenku8.net/modules/article/toplist.php?sort=dayvisit&page={{page}}\n总推荐榜::https://www.wenku8.net/modules/article/toplist.php?sort=allvote&page={{page}}\n月推荐榜::https://www.wenku8.net/modules/article/toplist.php?sort=monthvote&page={{page}}\n周推荐榜::https://www.wenku8.net/modules/article/toplist.php?sort=weekvote&page={{page}}\n日推荐榜::https://www.wenku8.net/modules/article/toplist.php?sort=dayvote&page={{page}}\n最新入库::https://www.wenku8.net/modules/article/toplist.php?sort=postdate&page={{page}}\n最近更新::https://www.wenku8.net/modules/article/toplist.php?sort=lastupdate&page={{page}}\n字数排行::https://www.wenku8.net/modules/article/toplist.php?sort=size&page={{page}}\n真厉害2020::https://www.wenku8.net/zt/sugoi/2020.php\n真厉害2019::https://www.wenku8.net/zt/sugoi/2019.php\n真厉害2018::https://www.wenku8.net/zt/sugoi/2018.php\n真厉害2017::https://www.wenku8.net/zt/sugoi/2017.php\n真厉害2016::https://www.wenku8.net/zt/sugoi/2016.php\n真厉害2015::https://www.wenku8.net/zt/sugoi/2015.php\n真厉害2014::https://www.wenku8.net/zt/sugoi/2014.php\n真厉害2013::https://www.wenku8.net/zt/sugoi/2013.php\n真厉害2012::https://www.wenku8.net/zt/sugoi/2012.php\n真厉害2011::https://www.wenku8.net/zt/sugoi/2011.php\n真厉害2010::https://www.wenku8.net/zt/sugoi/2010.php\n真厉害2009::https://www.wenku8.net/zt/sugoi/2009.php\n真厉害2008::https://www.wenku8.net/zt/sugoi/2008.php\n真厉害2007::https://www.wenku8.net/zt/sugoi/2007.php\n真厉害2006::https://www.wenku8.net/zt/sugoi/2006.php\n真厉害2005::https://www.wenku8.net/zt/sugoi/2005.php",
-    "header": "",
-    "lastUpdateTime": 1629605697973,
-    "loginUrl": "http://www.wenku8.net/login.php?jumpurl=http%3A%2F%2Fwww.wenku8.net%2Fmodules%2Farticle%2Fsearch.php%3Fsearchtype%3Darticlename%26searchkey%3D%25CE%25D2%25B5%25C4",
+    "exploreUrl": "轻小说列表::/modules/article/articlelist.php?page={{page}}\n热门轻小说::/modules/article/toplist.php?sort=allvisit&page={{page}}\n动画化作品::/modules/article/toplist.php?sort=anime&page={{page}}\n今日更新::/modules/article/toplist.php?sort=lastupdate&page={{page}}\n新书一览::/modules/article/toplist.php?sort=postdate&page={{page}}\n完结全部::/modules/article/articlelist.php?fullflag=1&page={{page}}\n                         日常系属性tags                              ::\n校园::/modules/article/tags.php?t=%D0%A3%D4%B0&page={{page}}\n青春::/modules/article/tags.php?t=%C7%E0%B4%BA&page={{page}}\n恋爱::/modules/article/tags.php?t=%C1%B5%B0%AE&page={{page}}\n治愈::/modules/article/tags.php?t=%D6%CE%D3%FA&page={{page}}\n群像::/modules/article/tags.php?t=%C8%BA%CF%F1&page={{page}}\n竞技::/modules/article/tags.php?t=%BE%BA%BC%BC&page={{page}}\n音乐::/modules/article/tags.php?t=%D2%F4%C0%D6&page={{page}}\n美食::/modules/article/tags.php?t=%C3%C0%CA%B3&page={{page}}\n旅行::/modules/article/tags.php?t=%C2%C3%D0%D0&page={{page}}\n欢乐向::/modules/article/tags.php?t=%BB%B6%C0%D6%CF%F2&page={{page}}\n经营::/modules/article/tags.php?t=%BE%AD%D3%AA&page={{page}}\n职场::/modules/article/tags.php?t=%D6%B0%B3%A1&page={{page}}\n斗智::/modules/article/tags.php?t=%B6%B7%D6%C7&page={{page}}\n脑洞::/modules/article/tags.php?t=%C4%D4%B6%B4&page={{page}}\n宅文化::/modules/article/tags.php?t=%D5%AC%CE%C4%BB%AF&page={{page}}\n                         幻想系属性tags                              ::\n穿越::/modules/article/tags.php?t=%B4%A9%D4%BD&page={{page}}\n奇幻::/modules/article/tags.php?t=%C6%E6%BB%C3&page={{page}}\n魔法::/modules/article/tags.php?t=%C4%A7%B7%A8&page={{page}}\n异能::/modules/article/tags.php?t=%D2%EC%C4%DC&page={{page}}\n战斗::/modules/article/tags.php?t=%D5%BD%B6%B7&page={{page}}\n科幻::/modules/article/tags.php?t=%BF%C6%BB%C3&page={{page}}\n机战::/modules/article/tags.php?t=%BB%FA%D5%BD&page={{page}}\n战争::/modules/article/tags.php?t=%D5%BD%D5%F9&page={{page}}\n冒险::/modules/article/tags.php?t=%C3%B0%CF%D5&page={{page}}\n龙傲天::/modules/article/tags.php?t=%C1%FA%B0%C1%CC%EC&page={{page}}\n                         黑深残属性tags                              ::\n悬疑::/modules/article/tags.php?t=%D0%FC%D2%C9&page={{page}}\n犯罪::/modules/article/tags.php?t=%B7%B8%D7%EF&page={{page}}\n复仇::/modules/article/tags.php?t=%B8%B4%B3%F0&page={{page}}\n黑暗::/modules/article/tags.php?t=%BA%DA%B0%B5&page={{page}}\n猎奇::/modules/article/tags.php?t=%C1%D4%C6%E6&page={{page}}\n惊悚::/modules/article/tags.php?t=%BE%AA%E3%A4&page={{page}}\n间谍::/modules/article/tags.php?t=%BC%E4%B5%FD&page={{page}}\n末日::/modules/article/tags.php?t=%C4%A9%C8%D5&page={{page}}\n游戏::/modules/article/tags.php?t=%D3%CE%CF%B7&page={{page}}\n大逃杀::/modules/article/tags.php?t=%B4%F3%CC%D3%C9%B1&page={{page}}\n                         人物属性类tags                              ::\n青梅竹马::/modules/article/tags.php?t=%C7%E0%C3%B7%D6%F1%C2%ED&page={{page}}\n妹妹::/modules/article/tags.php?t=%C3%C3%C3%C3&page={{page}}\n女儿::/modules/article/tags.php?t=%C5%AE%B6%F9&page={{page}}\nJK::/modules/article/tags.php?t=JK&page={{page}}\nJC::/modules/article/tags.php?t=JC&page={{page}}\n大小姐::/modules/article/tags.php?t=%B4%F3%D0%A1%BD%E3&page={{page}}\n性转::/modules/article/tags.php?t=%D0%D4%D7%AA&page={{page}}\n伪娘::/modules/article/tags.php?t=%CE%B1%C4%EF&page={{page}}\n人外::/modules/article/tags.php?t=%C8%CB%CD%E2&page={{page}}\n                         特殊属性类tags                              ::\n后宫::/modules/article/tags.php?t=%BA%F3%B9%AC&page={{page}}\n百合::/modules/article/tags.php?t=%B0%D9%BA%CF&page={{page}}\n耽美::/modules/article/tags.php?t=%B5%A2%C3%C0&page={{page}}\nNTR::/modules/article/tags.php?t=NTR&page={{page}}\n女性视角::/modules/article/tags.php?t=%C5%AE%D0%D4%CA%D3%BD%C7&page={{page}}",
+    "lastUpdateTime": 1672728168425,
+    "loginUrl": "https://www.wenku8.net/login.php",
     "respondTime": 180000,
     "ruleBookInfo": {
-      "author": "//td[contains(text(),\"小说作者\")]/text()",
-      "coverUrl": "//td[@valign=\"top\"]/img/@src",
-      "intro": "//span[@style='font-size:14px;']/text()",
-      "kind": "//b[contains(text(),'作品Tags：')]/text()##.*：",
-      "lastChapter": "//span[@style='font-size:14px;']/a/text()",
-      "name": "//td[@align=\"center\"]/span[@style=\"font-size:16px; font-weight: bold; line-height: 150%\"]/b/text()",
-      "tocUrl": "//div[@style='text-align:center'][1]/a[text()='小说目录']/@href",
-      "wordCount": "//td[contains(text(),\"全文长度\")]/text()##.*："
+      "author": "@css::containsOwn(小说作者)@text<js>\nresult.replace('小说作者：','')</js>",
+      "coverUrl": "@css:img[vspace]@src",
+      "intro": "@css::containsOwn(内容简介)+br+span@textNodes",
+      "kind": "@css::containsOwn(文库分类) :containsOwn(文章状态) :containsOwn(作品Tags)@text<js>String(result).replace(/文库分类：|文章状态：|作品Tags：|\\[|\\]/g,'').replace(/\\s+/g,',')</js>",
+      "lastChapter": "@css::containsOwn(最近章节)+br+span@text",
+      "name": "@css:[valign=middle][align=center] b@text",
+      "tocUrl": "@css::containsOwn(小说目录)@href",
+      "wordCount": "@css::containsOwn(全文长度)@text<js>String(result).replace(/全文长度：|\\[|\\]/g,'').replace(/\\s+/g,'')</js>"
     },
     "ruleContent": {
-      "content": "id.content@html##最新.*一网打尽！|本文来自.*|.*你所访问的网址不存在.*重新查找！|轻小说文库.*！|<img src=\".*404.gif\">"
+      "content": "@css:#content@html",
+      "imageStyle": "",
+      "replaceRegex": "##本文来自\\s轻小说文库\\(http:\\/\\/www\\.wenku8\\.com\\)|最新最全的日本动漫轻小说\\s轻小说文库\\(http:\\/\\/www\\.wenku8\\.com\\) 为你一网打尽！",
+      "sourceRegex": ""
     },
-    "ruleExplore": {},
+    "ruleExplore": {
+      "author": "author",
+      "bookList": "<js>org.jsoup.Jsoup.parse(result).select(\".grid td>div\").toArray().map(bk=>{var n=bk.select(\"b>a\").text();var data=bk.select(\"p:eq(1)\").text().match(/作者:([^\\/]*)/);var a=data?data[1]:\"\";var data2=String(bk.select(\"p:eq(1)\").text()).match(/\\/分类:(.*)/);var data3=String(bk.select(\"p:eq(2)\").text()).split(\"/\");var data4=String(bk.select(\"p:eq(3)>span\").text()).replace(/\\s/,',');var k=(data2?data2[1]:\"\").concat(\",\").concat(data3?(data3[2]?data3[2]:\"\"):\"\").concat(\",\").concat(data4?data4:\"\");var w=data3?((data3[1]?data3[1]:\"\").replace('字数:','')):\"\";var l=data3?((data3[0]?data3[0]:\"\").replace('更新:','')):\"\";var i=bk.select(\"p:eq(4)\").html().replace('简介:','');var c=bk.select(\"img\").attr(\"src\");var u=bk.select(\"b>a\").attr(\"href\");return {name:n,author:a,kind:k,word:w,last:l,intro:i,cover:c,url:u};})</js>",
+      "bookUrl": "url",
+      "coverUrl": "cover",
+      "intro": "intro",
+      "kind": "kind",
+      "lastChapter": "last",
+      "name": "name",
+      "wordCount": "word"
+    },
+    "ruleReview": {},
     "ruleSearch": {
       "author": "tag.div.0@p.0@text##/分类.*",
       "bookList": "//div[@style='width:373px;height:136px;float:left;margin:5px 0px 5px 5px;']&&//div[@style='TEXT-ALIGN: center; WIDTH: 19%; FLOAT: left']",
@@ -41,11 +54,11 @@
       "wordCount": "tag.div.0@p.1@text##.*字数:|/连载中|/已.*"
     },
     "ruleToc": {
-      "chapterList": "class.css@tr@td",
-      "chapterName": "class.vcss@text&&class.ccss@a@text",
-      "chapterUrl": "class.vcss@text&&class.ccss@a@href"
+      "chapterList": "@css:.ccss a:matches(^[^后记].*)",
+      "chapterName": "text",
+      "chapterUrl": "href"
     },
-    "searchUrl": "http://www.wenku8.net/modules/article/search.php?searchtype=articlename&searchkey={{key}}&page={{page}},{\n'charset'='gbk'\n}",
+    "searchUrl": "/modules/article/search.php?searchkey={{key}}&page={{page}},{\n  \"charset\": \"gbk\"\n}",
     "weight": 0
   },
   {
@@ -585,54 +598,6 @@
   },
   {
     "bookSourceComment": "",
-    "bookSourceGroup": "📖轻文",
-    "bookSourceName": "幻想姬",
-    "bookSourceType": 0,
-    "bookSourceUrl": "http://www.huanxiangji.com",
-    "customOrder": -88902865,
-    "enabled": true,
-    "enabledCookieJar": true,
-    "enabledExplore": true,
-    "enabledReview": true,
-    "exploreUrl": "玄幻奇幻::/list/1_{{page}}.html\n武侠仙侠::/list/2_{{page}}.html\n都市言情::/list/3_{{page}}.html\n历史军事::/list/4_{{page}}.html\n科幻灵异::/list/5_{{page}}.html\n网游竞技::/list/6_{{page}}.html\n女生频道::/list/7_{{page}}.html\n其他小说::/list/8_{{page}}.html",
-    "lastUpdateTime": 1670303916363,
-    "respondTime": 22575,
-    "ruleBookInfo": {
-      "author": ".info p.0@text",
-      "coverUrl": ".imgbox img@src",
-      "init": "",
-      "intro": ".desc@html",
-      "kind": ".info p.1:2:4@text##.*：|小说|\\s.*",
-      "lastChapter": "class.section-list.0@a.0@text",
-      "name": ".top h1@text"
-    },
-    "ruleContent": {
-      "content": "#content@html",
-      "replaceRegex": "##[????]|\\♂.*|\\<<.*>>|\\<<.*<<|小说免费.*平台|.*分享给你们的好友！|https.*\\/|"
-    },
-    "ruleExplore": {
-      "bookList": ""
-    },
-    "ruleReview": {},
-    "ruleSearch": {
-      "author": ".s4@text",
-      "bookList": ".txt-list-row5 li!0",
-      "bookUrl": "a.0@href",
-      "coverUrl": "a.0@href<js>\nvar id = result.match(/(\\d+)\\/?$/)[1];\nvar iid = parseInt(id/1000);\n'http://www.huanxiangji.com/files/article/image/'+iid+'/'+id+'/'+id+'s.jpg';\n</js>",
-      "kind": ".s1@text&&.s5@text##\\[|\\]|小说",
-      "lastChapter": "a.1@text",
-      "name": "a.0@text"
-    },
-    "ruleToc": {
-      "chapterList": "#section-list li a",
-      "chapterName": "text",
-      "chapterUrl": "href"
-    },
-    "searchUrl": "/modules/article/search.php,{\n  \"charset\": \"gbk\",\n  \"method\": \"POST\",\n  \"body\": \"searchkey={{key}}\"\n}",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "",
     "bookSourceGroup": "🎉精选",
     "bookSourceName": "翻书阁",
     "bookSourceType": 0,
@@ -974,67 +939,6 @@
       "updateTime": ".chapter_date@text"
     },
     "searchUrl": "/search.html?keyword={{key}}",
-    "weight": 0
-  },
-  {
-    "bookSourceComment": "博爱文学https://m.boaiwx.com/\n瓜书阁https://m.guashuge.com\n笔字阅读https://m.biziyd.com",
-    "bookSourceGroup": "🎉精选",
-    "bookSourceName": "艾途小说",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://m.aitbooks.com",
-    "customOrder": -88903147,
-    "enabled": true,
-    "enabledCookieJar": true,
-    "enabledExplore": true,
-    "enabledReview": true,
-    "exploreUrl": "[{\"title\":\"男频/古代/连载\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},\n{\"title\":\"玄幻小说\",\"url\":\"/shuku/1_0_0_1_{{page}}_5_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"虚拟网游\",\"url\":\"/shuku/1_0_0_1_{{page}}_6_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"架空历史\",\"url\":\"/shuku/1_0_0_1_{{page}}_7_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"科幻空间\",\"url\":\"/shuku/1_0_0_1_{{page}}_8_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"都市小说\",\"url\":\"/shuku/1_0_0_1_{{page}}_9_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"惊悚小说\",\"url\":\"/shuku/1_0_0_1_{{page}}_10_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"同人衍生\",\"url\":\"/shuku/1_0_0_1_{{page}}_11_1.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"穿越架空\",\"url\":\"/shuku/1_0_0_1_{{page}}_12_1.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"男频/古代/完结\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},\n{\"title\":\"玄幻小说\",\"url\":\"/shuku/1_0_0_2_{{page}}_5_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"虚拟网游\",\"url\":\"/shuku/1_0_0_2_{{page}}_6_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"架空历史\",\"url\":\"/shuku/1_0_0_2_{{page}}_7_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"科幻空间\",\"url\":\"/shuku/1_0_0_2_{{page}}_8_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"都市小说\",\"url\":\"/shuku/1_0_0_2_{{page}}_9_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"惊悚小说\",\"url\":\"/shuku/1_0_0_2_{{page}}_10_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"同人衍生\",\"url\":\"/shuku/1_0_0_2_{{page}}_11_1.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"穿越架空\",\"url\":\"/shuku/1_0_0_2_{{page}}_12_1.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"男频/现代/连载\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},\n{\"title\":\"玄幻小说\",\"url\":\"/shuku/2_0_0_1_{{page}}_5_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"虚拟网游\",\"url\":\"/shuku/2_0_0_1_{{page}}_6_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"架空历史\",\"url\":\"/shuku/2_0_0_1_{{page}}_7_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"科幻空间\",\"url\":\"/shuku/2_0_0_1_{{page}}_8_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"都市小说\",\"url\":\"/shuku/2_0_0_1_{{page}}_9_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"惊悚小说\",\"url\":\"/shuku/2_0_0_1_{{page}}_10_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"同人衍生\",\"url\":\"/shuku/2_0_0_1_{{page}}_11_1.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"穿越架空\",\"url\":\"/shuku/2_0_0_1_{{page}}_12_1.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"男频/现代/完结\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},\n{\"title\":\"玄幻小说\",\"url\":\"/shuku/2_0_0_2_{{page}}_5_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"虚拟网游\",\"url\":\"/shuku/2_0_0_2_{{page}}_6_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"架空历史\",\"url\":\"/shuku/2_0_0_2_{{page}}_7_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"科幻空间\",\"url\":\"/shuku/2_0_0_2_{{page}}_8_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"都市小说\",\"url\":\"/shuku/2_0_0_2_{{page}}_9_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"惊悚小说\",\"url\":\"/shuku/2_0_0_2_{{page}}_10_1.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"同人衍生\",\"url\":\"/shuku/2_0_0_2_{{page}}_11_1.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"穿越架空\",\"url\":\"/shuku/2_0_0_2_{{page}}_12_1.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"女频/古代/连载\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},\n{\"title\":\"玄幻小说\",\"url\":\"/shuku/1_0_0_1_{{page}}_5_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"虚拟网游\",\"url\":\"/shuku/1_0_0_1_{{page}}_6_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"架空历史\",\"url\":\"/shuku/1_0_0_1_{{page}}_7_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"科幻空间\",\"url\":\"/shuku/1_0_0_1_{{page}}_8_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"都市小说\",\"url\":\"/shuku/1_0_0_1_{{page}}_9_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"惊悚小说\",\"url\":\"/shuku/1_0_0_1_{{page}}_10_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"同人衍生\",\"url\":\"/shuku/1_0_0_1_{{page}}_11_2.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"穿越架空\",\"url\":\"/shuku/1_0_0_1_{{page}}_12_2.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"女频/古代/完结\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},\n{\"title\":\"玄幻小说\",\"url\":\"/shuku/1_0_0_2_{{page}}_5_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"虚拟网游\",\"url\":\"/shuku/1_0_0_2_{{page}}_6_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"架空历史\",\"url\":\"/shuku/1_0_0_2_{{page}}_7_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"科幻空间\",\"url\":\"/shuku/1_0_0_2_{{page}}_8_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"都市小说\",\"url\":\"/shuku/1_0_0_2_{{page}}_9_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"惊悚小说\",\"url\":\"/shuku/1_0_0_2_{{page}}_10_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"同人衍生\",\"url\":\"/shuku/1_0_0_2_{{page}}_11_2.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"穿越架空\",\"url\":\"/shuku/1_0_0_2_{{page}}_12_2.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"女频/现代/连载\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},\n{\"title\":\"玄幻小说\",\"url\":\"/shuku/2_0_0_1_{{page}}_5_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"虚拟网游\",\"url\":\"/shuku/2_0_0_1_{{page}}_6_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"架空历史\",\"url\":\"/shuku/2_0_0_1_{{page}}_7_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"科幻空间\",\"url\":\"/shuku/2_0_0_1_{{page}}_8_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"都市小说\",\"url\":\"/shuku/2_0_0_1_{{page}}_9_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"惊悚小说\",\"url\":\"/shuku/2_0_0_1_{{page}}_10_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"同人衍生\",\"url\":\"/shuku/2_0_0_1_{{page}}_11_2.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"穿越架空\",\"url\":\"/shuku/2_0_0_1_{{page}}_12_2.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"女频/现代/完结\",\"url\":\"\",\"style\":{\"layout_flexBasisPercent\":1,\"layout_flexGrow\":1}},\n{\"title\":\"玄幻小说\",\"url\":\"/shuku/2_0_0_2_{{page}}_5_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"虚拟网游\",\"url\":\"/shuku/2_0_0_2_{{page}}_6_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"架空历史\",\"url\":\"/shuku/2_0_0_2_{{page}}_7_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"科幻空间\",\"url\":\"/shuku/2_0_0_2_{{page}}_8_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"都市小说\",\"url\":\"/shuku/2_0_0_2_{{page}}_9_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"惊悚小说\",\"url\":\"/shuku/2_0_0_2_{{page}}_10_2.html\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"同人衍生\",\"url\":\"/shuku/2_0_0_2_{{page}}_11_2.html\",\"style\":{\"layout_flexBasisPercent\":0.29}},\n{\"title\":\"穿越架空\",\"url\":\"/shuku/2_0_0_2_{{page}}_12_2.html\",\"style\":{\"layout_flexBasisPercent\":0.29}}]",
-    "lastUpdateTime": 1670296868850,
-    "loginUrl": "",
-    "respondTime": 16336,
-    "ruleBookInfo": {
-      "author": "[property$=author]@content##的小说",
-      "coverUrl": "[property$=image]@content",
-      "init": "",
-      "intro": "💠   {{@@.channel@text}}\n👤   {{@@.leader@text}}{{'\\n'+'​'}}\n{{@@.sectionTwo-content@ownText}}##(^|[。！？]+[”」）】]?)##$1<br>",
-      "kind": "[property~=category|status|update_time]@content##小说|\\s.*",
-      "lastChapter": ".chapter-table a.0@text##正文.|[\\(（【].*?[求更谢乐发订合补加].*?[】）\\)]",
-      "name": "[property$=book_name]@content##\\-.*|\\_.*|\\s.*",
-      "tocUrl": "text.进入目录@href",
-      "wordCount": ""
-    },
-    "ruleContent": {
-      "content": "<js>\nurl=\"https:\"+result.match(/initTxt\\(\"([^\"]+)\",\"[^\"]+\"\\)/)[1];\nr=String(java.ajax(url).match(/_txt_call\\(([\\s\\S]+\\})\\)/)[1]);\nvar r = eval('(' + r + ')');\n\t\t\t\tif(r.content!=null){\t\t\t\t\n      var e = r.replace;\n\t\t\t\tfor (var n in e) {\n\t\t\t\t\tvar i = new RegExp(e[n], \"ig\");\n\t\t\t\t\tr.content = r.content.replace(i, n)\n\t\t\t\t}\n\t\t\t\tresult=r.content\n\t\t\t\t\t}else{result=\"章节加载失败，或者内容正在手打中，请【收藏本站】稍访问或者联系管理员更新~\"}\n</js>",
-      "nextContentUrl": ".next@href"
-    },
-    "ruleExplore": {
-      "author": ".gray@text##\\/\\s|的小说",
-      "bookList": ".list-item",
-      "bookUrl": "a@href",
-      "coverUrl": "img@data-lazy",
-      "intro": "",
-      "kind": "p.1@text##T.*",
-      "lastChapter": "p.2@text##.*\\/\\s|正文.|",
-      "name": "p.0@ownText##\\-.*|\\_.*|\\s.*",
-      "wordCount": ""
-    },
-    "ruleReview": {},
-    "ruleSearch": {
-      "author": "a.1@text##的小说",
-      "bookList": ".search-card",
-      "bookUrl": "a.0@href",
-      "coverUrl": "",
-      "intro": ".sc-content@text",
-      "kind": ".gray@text&&.sc-time span.1@text##\\[|\\]|\\(|\\s..:.*",
-      "lastChapter": ".sc-time span.0@text##正文.|[\\(（【].*?[求更谢乐发订合补加].*?[】）\\)]",
-      "name": "a.0@text##\\-.*|\\_.*|\\s.*"
-    },
-    "ruleToc": {
-      "chapterList": ".BGsectionThree-content li a",
-      "chapterName": "text##正文.|[\\(（【].*?[求更谢乐发订合补加].*?[】）\\)]",
-      "chapterUrl": "href",
-      "nextTocUrl": "text.下页@href"
-    },
-    "searchUrl": "/search/,{\n  'method': 'POST',\n  'body': 'keyword={{key}}'\n}",
     "weight": 0
   },
   {
@@ -2869,6 +2773,54 @@
       "chapterUrl": "href"
     },
     "searchUrl": "",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "📖轻文",
+    "bookSourceName": "幻想姬",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.huanxiangji.com",
+    "customOrder": -88902865,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "enabledReview": true,
+    "exploreUrl": "玄幻奇幻::/list/1_{{page}}.html\n武侠仙侠::/list/2_{{page}}.html\n都市言情::/list/3_{{page}}.html\n历史军事::/list/4_{{page}}.html\n科幻灵异::/list/5_{{page}}.html\n网游竞技::/list/6_{{page}}.html\n女生频道::/list/7_{{page}}.html\n其他小说::/list/8_{{page}}.html",
+    "lastUpdateTime": 1670303916363,
+    "respondTime": 22575,
+    "ruleBookInfo": {
+      "author": ".info p.0@text",
+      "coverUrl": ".imgbox img@src",
+      "init": "",
+      "intro": ".desc@html",
+      "kind": ".info p.1:2:4@text##.*：|小说|\\s.*",
+      "lastChapter": "class.section-list.0@a.0@text",
+      "name": ".top h1@text"
+    },
+    "ruleContent": {
+      "content": "#content@html",
+      "replaceRegex": "##[????]|\\♂.*|\\<<.*>>|\\<<.*<<|小说免费.*平台|.*分享给你们的好友！|https.*\\/|"
+    },
+    "ruleExplore": {
+      "bookList": ""
+    },
+    "ruleReview": {},
+    "ruleSearch": {
+      "author": ".s4@text",
+      "bookList": ".txt-list-row5 li!0",
+      "bookUrl": "a.0@href",
+      "coverUrl": "a.0@href<js>\nvar id = result.match(/(\\d+)\\/?$/)[1];\nvar iid = parseInt(id/1000);\n'http://www.huanxiangji.com/files/article/image/'+iid+'/'+id+'/'+id+'s.jpg';\n</js>",
+      "kind": ".s1@text&&.s5@text##\\[|\\]|小说",
+      "lastChapter": "a.1@text",
+      "name": "a.0@text"
+    },
+    "ruleToc": {
+      "chapterList": "#section-list li a",
+      "chapterName": "text",
+      "chapterUrl": "href"
+    },
+    "searchUrl": "/modules/article/search.php,{\n  \"charset\": \"gbk\",\n  \"method\": \"POST\",\n  \"body\": \"searchkey={{key}}\"\n}",
     "weight": 0
   },
   {
