@@ -4,7 +4,7 @@
 
 ## 开源阅读 Legado
 
-共56个
+共55个
 
 [Raw](https://raw.githubusercontent.com/entr0pia/MyLegadoSource/master/bookSource.json)
 ```

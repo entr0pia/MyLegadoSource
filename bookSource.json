@@ -518,44 +518,6 @@
     "weight": 0
   },
   {
-    "bookSourceComment": "国轻\n整理修改：酷安 Wolken",
-    "bookSourceGroup": "📖轻文",
-    "bookSourceName": "临高启明同人",
-    "bookSourceType": 0,
-    "bookSourceUrl": "http://lgqm.huijiwiki.com/wiki/同人作品列表",
-    "bookUrlPattern": "",
-    "customOrder": -88951431,
-    "enabled": true,
-    "enabledCookieJar": false,
-    "enabledExplore": true,
-    "enabledReview": false,
-    "exploreUrl": "[\r\n{\"title\":\"同人作品列表\",\"url\":\"http://lgqm.huijiwiki.com/wiki/同人作品列表\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\r\n{\"title\":\"2017年铁拳爆菊大出血杯\",\"url\":\"http://lgqm.huijiwiki.com/wiki/2017年铁拳爆菊大出血杯\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\r\n{\"title\":\"2017年吹牛文学奖\",\"url\":\"http://lgqm.huijiwiki.com/wiki/2017年吹牛文学奖\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\r\n{\"title\":\"2016年铁拳爆菊大出血杯\",\"url\":\"http://lgqm.huijiwiki.com/wiki/2016年铁拳爆菊大出血杯\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}}\r\n]",
-    "lastUpdateTime": 1644844576472,
-    "loginUrl": "",
-    "respondTime": 2282,
-    "ruleBookInfo": {
-      "name": "tag.h1@text"
-    },
-    "ruleContent": {
-      "content": "class.mw-parser-output@html"
-    },
-    "ruleExplore": {},
-    "ruleSearch": {
-      "author": "tag.td.2@text",
-      "bookList": "class.wikitable@tr",
-      "bookUrl": "tag.a@href",
-      "intro": "tag.td.9@text&&tag.td.3@text&&tag.td.6@text&&tag.td.4@text",
-      "kind": "tag.td.7@text&&tag.td.8@text",
-      "name": "tag.td.1@a@text"
-    },
-    "ruleToc": {
-      "chapterList": "tag.h1",
-      "chapterName": "text"
-    },
-    "searchUrl": "http://lgqm.huijiwiki.com/wiki/同人作品列表",
-    "weight": 0
-  },
-  {
     "bookSourceComment": "网络不畅考虑科学上网使用\n整理修改：酷安 Wolken",
     "bookSourceGroup": "📖轻文",
     "bookSourceName": "小説家になろう(科学)",
