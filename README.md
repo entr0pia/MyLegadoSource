@@ -4,7 +4,7 @@
 
 ## 开源阅读 Legado
 
-共55个
+共55个, 复制链接网络导入
 
 [Raw](https://raw.githubusercontent.com/entr0pia/MyLegadoSource/master/bookSource.json)
 ```
@@ -18,7 +18,7 @@ https://raw.fastgit.org/entr0pia/MyLegadoSource/master/bookSource.json
 
 ## 异次元漫画
 
-共62个
+共54个, 下载页面后本地导入
 
 [Raw](https://raw.githubusercontent.com/entr0pia/MyLegadoSource/master/comicSource.txt)
 ```
