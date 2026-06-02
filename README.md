@@ -30,12 +30,3 @@ https://raw.githubusercontent.com/entr0pia/MyLegadoSource/master/comicSource.txt
 https://raw.fastgit.org/entr0pia/MyLegadoSource/master/comicSource.txt
 ```
 
-## 相关链接
-
-[开源阅读 Legado](https://gedoor.github.io/) - 官网
-
-[源仓库](https://www.yckceo.com/) - 第三方, 阅读和漫画都有
-
-[轻小说阅读书源合集](https://github.com/ZWolken/Light-Novel-Yuedu-Source) - 第三方
-
-[「阅读」APP 精品书源](https://yuedu.xiu2.xyz/) - 第三方, 仅阅读
